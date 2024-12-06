@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.19323a72.css",
+    "main.js": "/myPortfolio/static/js/main.ee11b530.js",
+    "static/js/453.acca0757.chunk.js": "/myPortfolio/static/js/453.acca0757.chunk.js",
+    "static/media/Documentation.jpeg": "/myPortfolio/static/media/Documentation.c44482e645c14bbc6a4b.jpeg",
+    "static/media/Le-pearl.jpeg": "/myPortfolio/static/media/Le-pearl.9312522393d117fa5278.jpeg",
+    "static/media/tribute-page.jpg": "/myPortfolio/static/media/tribute-page.02370dd0f3f139853ef6.jpg",
+    "static/media/survey-form.jpeg": "/myPortfolio/static/media/survey-form.0f04d8962aef76679f2c.jpeg",
+    "static/media/TextUtils.jpg": "/myPortfolio/static/media/TextUtils.e2b89e5712e1706635b6.jpg",
+    "index.html": "/myPortfolio/index.html",
+    "main.19323a72.css.map": "/myPortfolio/static/css/main.19323a72.css.map",
+    "main.ee11b530.js.map": "/myPortfolio/static/js/main.ee11b530.js.map",
+    "453.acca0757.chunk.js.map": "/myPortfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19323a72.css",
+    "static/js/main.ee11b530.js"
+  ]
+}
