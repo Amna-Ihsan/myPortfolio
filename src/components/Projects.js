@@ -4,11 +4,11 @@ import Documentation from "./Documentation.jpeg";
 import SurveyFrom from "./survey-form.jpeg";
 import TextUtils from "./TextUtils.jpg";
 import TributePage from "./tribute-page.jpg";
-
+import todo from "./todoList.png";
 export function Projects() {
   return (
     <>
-      <section id="projects">
+      <section className="projects">
         <h1>These are some of my projects</h1>
         <div className="project_pics">
           <a href="https://amna-ihsan.github.io/Le-Pearl/" target="_blank" className="pics">
@@ -18,6 +18,7 @@ export function Projects() {
               <i className="fa-solid fa-angle-right"></i>
               </span>
           </a>
+         
           <a href="https://amna-ihsan.github.io/Technical-documentation-page-/"  target="_blank"  className="pics">
               <img src={Documentation} alt=" Technical documentation page" />
               <span className="project-title">
@@ -38,6 +39,13 @@ export function Projects() {
               <img src={TributePage} alt="Tribute Page" />
               <span className="project-title">
               <i className="fa-solid fa-angle-left"></i> Tribute Page
+              <i className="fa-solid fa-angle-right"></i>
+              </span>
+          </a>
+          <a href="https://amna-ihsan.github.io/Todo-App/" target="_blank" className="pics">
+              <img src={todo} alt="Todo App" />
+              <span className="project-title">
+              <i className="fa-solid fa-angle-left"></i> Todo App
               <i className="fa-solid fa-angle-right"></i>
               </span>
           </a>
